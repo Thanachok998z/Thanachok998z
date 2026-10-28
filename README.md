@@ -1,42 +1,25 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Thanachok — Code. Create. Keep learning." width="100%" />
-</p>
+<p align="center"><img src="./assets/glass-header.svg" alt="Hi, I'm Thanachok. Code. Create. Keep learning. Web / Python / Games / AI." width="100%"></p>
 
-<p align="center">
-  <a href="https://github.com/Thanachok998z?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-22d3ee?style=for-the-badge&logo=github&logoColor=0b1220" alt="Explore my work" /></a>
-  <a href="https://thanachok998z.github.io/Gamegrammar/"><img src="https://img.shields.io/badge/PLAY_LOST_LETTERS-a78bfa?style=for-the-badge&logo=itchdotio&logoColor=0b1220" alt="Play Lost Letters" /></a>
-</p>
-
-### Hello, I'm Thanachok 👋
-
-I build projects across **web apps, Python, games, and AI experiments** — turning ideas into things people can try.
-
-สวัสดีครับ ผมธนโชค สนุกกับการเขียนโค้ด สร้างเกม และทดลองนำ AI มาใช้ในโปรเจกต์ต่าง ๆ
-
----
+<p align="center">I build web apps, Python projects, games, and AI experiments.<br>สนุกกับการเขียนโค้ด สร้างเกม และทดลองนำ AI มาใช้ในโปรเจกต์ต่าง ๆ</p>
 
 ### Selected projects
 
-| Project | What it does | Explore |
-| :--- | :--- | :--- |
-| **🎮 Lost Letters** | An English practice game with a retro pixel style, plus a local AI edition using Ollama. | [Code](https://github.com/Thanachok998z/Gamegrammar) · [Play demo](https://thanachok998z.github.io/Gamegrammar/) |
-| **💬 AssistNut** | A LINE OA project for submitting and confirming electricity meter readings, backed by PostgreSQL. | [View project](https://github.com/Thanachok998z/AssistNut) |
-| **🧾 POS** | A Python point-of-sale project. | [View project](https://github.com/Thanachok998z/POS) |
-| **📚 Booklend** | A Python backend project for book lending. | [View project](https://github.com/Thanachok998z/Booklend-back) |
+<a href="https://thanachok998z.github.io/Gamegrammar/"><img src="./assets/lost-letters.svg" alt="Lost Letters — English practice game. Play demo." width="49%"></a>
+<a href="https://github.com/Thanachok998z/AssistNut"><img src="./assets/assistnut.svg" alt="AssistNut — LINE OA electricity meter readings. View project." width="49%"></a>
+<a href="https://github.com/Thanachok998z/POS"><img src="./assets/pos.svg" alt="POS — Python point of sale. View project." width="49%"></a>
+<a href="https://github.com/Thanachok998z/Booklend-back"><img src="./assets/booklend.svg" alt="Booklend — Python book lending backend. View project." width="49%"></a>
+
+[Lost Letters source code](https://github.com/Thanachok998z/Gamegrammar) · [All repositories →](https://github.com/Thanachok998z?tab=repositories)
 
 ### Tools in my projects
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS-663399?style=flat-square&amp;logo=css&amp;logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Ollama-161b22?style=flat-square&amp;logo=ollama&amp;logoColor=white" alt="Ollama">
 </p>
-
-### Explore more
-
-[All repositories →](https://github.com/Thanachok998z?tab=repositories)
 
 <p align="center"><sub>Code. Create. Keep learning.</sub></p>
